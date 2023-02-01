@@ -1,2 +1,2 @@
 xk+1 = axk+ εk
-yk=sqrt(x2k+ 1 )+ νk
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
