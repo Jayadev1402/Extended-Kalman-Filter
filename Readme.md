@@ -12,3 +12,5 @@ $$ y_k =  \sqrt{x^2_k+1}+v_k $$
 
 
 $\psi_k \sim N(0,1)$
+
+$v_k \sim N(0,1/2)$
